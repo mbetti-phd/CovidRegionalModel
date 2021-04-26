@@ -1,0 +1,11 @@
+Province,HR,Population,Mitigation,Skip,Samples,Tol
+Ontario,Toronto,2571731,Gamma,No,200,1
+Saskatchewan,Far North,37000,Gamma,No,200,1
+Manitoba,Northern,100000,Gamma,No,200,1
+Ontario,Halton,1382000,Gamma,No,200,1
+Ontario,Peel,1382000,Gamma,No,200,1
+Quebec,Laval,2100000,Gamma,No,200,1
+BC,Fraser,500000,Gamma,No,200,1
+Quebec,Lanaudière,500000,Gamma,No,200,1
+Alberta,South,272017,Gamma,No,200,1
+BC,Vancouver Coastal,1250000,Gamma,No,200,1
